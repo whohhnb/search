@@ -66,7 +66,7 @@ function KStart() {
       },
       {
         name: "随机动漫壁纸",
-        url: "https://api.whohh.cn/random/s",
+        url: "https://t.mwm.moe/pc/",
         set: "bottom right/60% no-repeat",
       },
       {
