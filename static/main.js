@@ -66,7 +66,7 @@ function KStart() {
       },
       {
         name: "随机动漫壁纸",
-        url: "https://t.mwm.moe/pc/",
+        url: "https://api.whohh.cn/random/s/",
         set: "bottom right/60% no-repeat",
       },
       {
@@ -81,12 +81,7 @@ function KStart() {
       },
       {
         name: "原神随机图",
-        url: "https://api.fanet.top/img/r/genshin",
-        set: "center/cover no-repeat",
-      },
-      {
-        name: "原神万叶",
-        url: "https://api.fanet.top/img/r/genshin/kazuha",
+        url: "https://api.whohh.cn/random/genshin/",
         set: "center/cover no-repeat",
       }
     ],
