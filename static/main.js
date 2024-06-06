@@ -82,27 +82,27 @@ function KStart() {
       {
         name: "原神随机图",
         url: "https://t.alcy.cc/ysz",
-        set: "center/cover no-repeat filter: blur(5px);",
+        set: "center/cover no-repeat/",
       },
       {
         name: "二次元",
         url: "https://t.alcy.cc/ycy",
-        set: "center/cover no-repeat filter: blur(5px);",
+        set: "center/cover no-repeat",
       },
       {
         name: "萌版图",
         url: "https://t.alcy.cc/moz",
-        set: "center/cover no-repeat filter: blur(5px);",
+        set: "center/cover no-repeat",
       },
       {
         name: "风景图",
         url: "https://t.alcy.cc/fj",
-        set: "center/cover no-repeat filter: blur(5px);",
+        set: "center/cover no-repeat",
       },
       {
         name: "ACG动图",
         url: "https://t.alcy.cc/acg",
-        set: "center/cover no-repeat filter: blur(5px);",
+        set: "center/cover no-repeat",
       }
     ],
     search_method: [
