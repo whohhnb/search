@@ -98,11 +98,6 @@ function KStart() {
         name: "风景图",
         url: "https://t.alcy.cc/fj",
         set: "center/cover no-repeat",
-      },
-      {
-        name: "ACG动图",
-        url: "https://t.alcy.cc/acg",
-        set: "center/cover no-repeat",
       }
     ],
     search_method: [
