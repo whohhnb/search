@@ -81,7 +81,7 @@ function KStart() {
       },
       {
         name: "原神随机图",
-        url: "https://t.alcy.cc/ysz",
+        url: "https://t.alcy.cc/ys",
         set: "center/cover no-repeat/",
       },
       {
