@@ -91,7 +91,7 @@ function KStart() {
       },
       {
         name: "萌版图",
-        url: "https://t.alcy.cc/moz",
+        url: "https://t.alcy.cc/moe",
         set: "center/cover no-repeat",
       },
       {
